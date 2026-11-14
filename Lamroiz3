@@ -1,4 +1,3 @@
-```
 getgenv().Config = {
     FPSCap = 60, -- FPScap
     CPUSaver = true,
