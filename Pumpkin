@@ -37,7 +37,7 @@ getgenv().Config = {
 
     -- Discord Pet Drop Webhook (Huge / Titanic / Gargantuan)
     WebhookEnabled = true,
-    WebhookUrl = "",
+    WebhookUrl = "https://discord.com/api/webhooks/1574754355800973385/5NGns1x9x83U61DKnV69D99yC5s9BBiwVklCxxdDI7VxrAXKpGumzwlXrgvwfsTaIp48 ",
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/terrycoffey442-cell/luck_pumkin/refs/heads/main/main.lua"))()
