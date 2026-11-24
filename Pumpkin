@@ -28,6 +28,7 @@ getgenv().Config = {
     HuntMinTier = 4,                  -- 4 = Huges only
     HuntVariantsOnly = false,
     HuntRerollWild = true,
+    HuntRerollRequireButtonsComplete = false, -- Cho phep xa Pet Net truoc khi du 117/117 button
     HuntRerollZone = 1,               -- 1 = Huge Cocoa Husky (1/237)
     HuntRerollKeepNets = 15,
     AutoBuyNetStore = true,
