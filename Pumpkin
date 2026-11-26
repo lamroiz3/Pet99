@@ -3,7 +3,7 @@ getgenv().Config = {
     TargetRebirths = 0,               -- 0 = Off | 3 = max 1.0x egg odds | 20 = max +400% Coins | -1 = infinite
 
     -- Hatching & Crafting
-    AutoHatch = true,
+    AutoHatch = false,
     TargetEggName = "Golden Ridge Egg",
     AutoMakeGold = true,
     AutoMakeRainbow = true,
